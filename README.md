@@ -1,2 +1,3 @@
 # dsci100_project_individual
-projedt creation date : November 10th, 2025
+project creation date : November 10th, 2025
+author: Albert Melky Simatupang
